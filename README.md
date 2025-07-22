@@ -45,16 +45,5 @@ cd yolov10
 
 python app.py
 
-Object_Scope/
-├── app.py               > Flask app
-├── yolov10_infer.py     > YOLOv10 inference logic
-├── templates/
-│   └── index.html       > Main frontend
-├── static/
-│   └── styles.css       > CSS styles
-├── uploads/             > Uploaded images/videos
-├── results/             > Output with detection
-└── models/
-    └── yolov10n.pt      > YOLOv10 model weights
 
 
